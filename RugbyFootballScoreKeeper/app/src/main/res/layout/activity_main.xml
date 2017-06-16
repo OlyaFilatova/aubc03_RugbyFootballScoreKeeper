@@ -167,8 +167,7 @@
             android:layout_height="wrap_content"
             android:text="Reset"
             android:onClick="resetPoints"
-            android:background="@color/accent"
-            android:textColor="@color/icons"
-            android:layout_marginBottom="8dp"/>
+            android:background="@color/primary"
+            android:textColor="@color/icons"/>
     </FrameLayout>
 </RelativeLayout>
