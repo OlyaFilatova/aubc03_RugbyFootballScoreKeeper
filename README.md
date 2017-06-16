@@ -4,7 +4,7 @@ Third task from Udacity's [Android basics course](https://www.udacity.com/course
 
 Android Basics: User Input
 
-Lesson 4: Score Keeper App
+[Lesson 4: Score Keeper App](https://review.udacity.com/#!/rubrics/157/view)
 
 ![When you open this application it looks like this.](docs/rugby-screenshot-start.png)
 
