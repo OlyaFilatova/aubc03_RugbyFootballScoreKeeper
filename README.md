@@ -1,6 +1,6 @@
 # Rugby Football Score Keeper
 
-Fourth task from Udacity's [Android basics course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+Third task from Udacity's [Android basics course](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 Android Basics: User Input
 
