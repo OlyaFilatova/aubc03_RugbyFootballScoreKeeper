@@ -6,7 +6,7 @@ Android Basics: User Input
 
 Lesson 4: Score Keeper App
 
-[When you open this application it looks like this.](docs/rugby-screenshot-start.png)
+![When you open this application it looks like this.](docs/rugby-screenshot-start.png)
 
 Screen is split to two columns and at the bottom there is a reset button.
 
@@ -24,10 +24,11 @@ When you click each button, it's displayed in points' history stack and points a
 - Penalty => 3
 - Drop Goal => 3
 
-[Here's a screenshot of the app when teams got some points.](docs/rugby-screenshot-playing.png)
+![Here's a screenshot of the app when teams got some points.](docs/rugby-screenshot-playing.png)
 
 When you click reset button points are at zero again and there is no points' history beneath them.
-[Reset button clicked.](docs/rugby-screenshot-start.png)
+![Reset button clicked.](docs/rugby-screenshot-start.png)
 
 App doesn't save any information when you close it.
+
 Points' history stack is unscrollable.
